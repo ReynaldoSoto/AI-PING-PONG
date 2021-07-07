@@ -39,3 +39,8 @@ h5{
     width: 100%;
     font-size: 20px;
 }
+canvas{
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+}
